@@ -10,4 +10,4 @@
 
 # Credits
 - Dandy (Base script)
-- Adit (Updated)
+- Ades%burton (Updated)
