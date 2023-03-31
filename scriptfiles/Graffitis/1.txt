@@ -1,0 +1,8 @@
+graffcreator=J
+graffname={00FF22}OPEN
+Xpos=1372.603637
+Ypos=-1737.917724
+Zpos=13.546875
+XYpos=0.000000
+YYpos=0.000000
+ZYpos=0.000000

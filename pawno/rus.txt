@@ -1,0 +1,20 @@
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(5) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(5) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_GetCreatedPrivateChannel"
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(5) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(6) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_SendChannelMessage"
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(5) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "PM"
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(14) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(14) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_GetCreatedPrivateChannel"
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(14) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(16) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_CreateEmbed"
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(16) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(16) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(16) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "image_url"
+C:\Users\wan\Downloads\samp4\gamemodes\CMD\DISCORD.pwn(16) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Îøèáîê:7.

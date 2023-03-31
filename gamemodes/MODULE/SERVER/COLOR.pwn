@@ -1,0 +1,100 @@
+/*==============================================================================
+         					     Colors
+===============================================================================*/
+#define COLOR_GRAD2 		0xBFC0C2FF
+#define COLOR_GRAD3 		0xCBCCCEFF
+#define COLOR_AQUA          0xCCFFFFFF
+#define COLOR_WHITE 		0xFFFFFFFF
+#define COLOR_WHITEP 		0xFFE4C4FF
+#define COLOR_ORANGE   		0xDB881AFF
+#define COLOR_ORANGE2		0xFF5000FF
+#define COLOR_IVORY 		0xFFFF82FF
+#define COLOR_LIME 			0xD2D2ABFF
+#define COLOR_BLUE			0x004BFFFF
+#define COLOR_SBLUE			0x56A4E4FF
+#define COLOR_LBLUE 		0x33CCFFFF
+#define COLOR_RCONBLUE      0x0080FF99
+#define COLOR_PURPLE2 		0x5A00FFFF
+#define COLOR_PURPLE      	0xD0AEEBFF
+#define COLOR_PURPLEJG      0xC2A2DAFF
+#define COLOR_RED 			0xFF0000FF
+#define COLOR_LOGS 			0xC6E2FFFF
+#define COLOR_LRED 			0xE65555FF
+#define COLOR_LIGHTGREEN 	0x00FF00FF
+#define COLOR_YELLOW 		0xFFFF00FF
+#define COLOR_YELLOW2 		0xF5DEB3FF
+#define COLOR_LB 			0x15D4EDFF
+#define COLOR_PINK			0xEE82EEFF
+#define COLOR_PINK2		 	0xFF828200
+#define COLOR_GOLD			0xFFD700FF
+#define COLOR_FIREBRICK 	0xB22222FF
+#define COLOR_GREEN 		0x3BBD44FF
+#define COLOR_GREY			0xBABABAFF
+#define COLOR_ERROR 		0xAFAFAFFF
+#define COLOR_GREY2 		0x778899FF
+#define COLOR_GREY3			0xC8C8C8FF
+#define COLOR_GREYJG 		0xAFAFAFFF
+#define COLOR_DARK 			0x7A7A7AFF
+#define COLOR_BROWN 		0x8B4513FF
+#define COLOR_SYSTEM 		0xEFEFF7FF
+#define COLOR_RADIO       	0x8D8DFFFF
+#define COLOR_FAMILY		0x00F77AFF
+#define COLOR_JOB			0xC6E2FFFF
+#define COLOR_RIKO			0xADD8E6FF
+#define COLOR_BAN			0xFF5533FF
+#define ARWIN				0xC6E2FFFF
+#define COLOR_FADE1 		0xE6E6E6E6
+#define COLOR_FADE2 		0xC8C8C8C8
+#define COLOR_FADE3 		0xAAAAAAAA
+#define COLOR_FADE4 		0x8C8C8C8C
+#define COLOR_FADE5 		0x6E6E6E6E
+#define COLOR_GRAD2			0xBFC0C2FF
+#define TEAM_BLUE_COLOR 	0x8D8DFFC8
+#define COLOR_ARWIN 		0x00B6FFFF
+#define TEAM_GROVE_COLOR 	0x00D900C8
+#define COLOR_GRAD2 		0xBFC0C2FF
+#define COLOR_REPORT 		0xFFFF91FF
+#define TEAM_BLUES_COLOR 	0x2641FE00
+#define TOMATO              0xFF6347AA
+
+#define GREEN_LIGHT "{00FF00}"
+#define TOMATO_E	"{FF6347}"
+#define FAMILY_E	"{F77AFF}"
+#define GREY_JG		"{AFAFAF}"
+#define PURPLE_E2	"{7348EB}"
+#define RED_E 		"{FF0000}"
+#define BLUE_E 		"{004BFF}"
+#define SBLUE_E 	"{56A4E4}"
+#define PINK_E 		"{FFB6C1}"
+#define YELLOW_E 	"{FFFF00}"
+#define LG_E 		"{00FF00}"
+#define LB_E 		"{15D4ED}"
+#define LB2_E 		"{87CEFA}"
+#define GREY_E 		"{BABABA}"
+#define GREY2_E 	"{778899}"
+#define GREY3_E 	"{C8C8C8}"
+#define DARK_E 		"{7A7A7A}"
+#define WHITE_E 	"{FFFFFF}"
+#define WHITE 		"{FFFFFF}"
+#define WHITEP_E 	"{FFE4C4}"
+#define IVORY_E 	"{FFFF82}"
+#define ORANGE_E 	"{DB881A}"
+#define ORANGE_E2	"{FF5000}"
+#define GREEN_E 	"{3BBD44}"
+#define PURPLE_E 	"{5A00FF}"
+#define ANS_E 		"{FF9945}"
+#define LIME_E 		"{D2D2AB}"
+#define LRED_E		"{E65555}"
+#define SILVER_E    "{999999}"
+#define DOOM_		"{F4A460}"
+#define MATHS       "{3571FC}"
+#define REACTIONS   "{FD4141}"
+#define LBLUE   	"{00FFFF}"
+#define RIKO        "{ADD8E6}"
+#define ERROR_E     "{AFAFAF}"
+
+#define dot "{F2F853}> {F0F0F0}"
+
+//=== Color ===
+#define COLOR_RGB(%1,%2,%3,%4) (((((%1) & 0xff) << 24) | (((%2) & 0xff) << 16) | (((%3) & 0xff) << 8) | ((%4) & 0xff)))
+#define StripAlpha(%0) ((%0) >>> 8)

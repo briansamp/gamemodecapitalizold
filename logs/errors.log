@@ -1,0 +1,7 @@
+[12/27/22 21:58:32] [plugins/mysql] cache_get_value_name_int: no active cache
+[12/27/22 21:58:33] [plugins/mysql] error #1146 while executing query "SELECT * FROM vtoys WHERE Owner='2675' LIMIT 1": Table 'indolast.vtoys' doesn't exist
+[12/27/22 21:58:33] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[12/27/22 21:58:56] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[12/27/22 21:59:02] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[12/27/22 21:59:06] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[12/27/22 21:59:16] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
