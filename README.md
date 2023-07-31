@@ -1,13 +1,3 @@
-# Feature Gamemode
-
-- Create UCP in Discord
-- Dynamic Actor, Door, Locker, ATM
-- Phone Textdraws System
-- Anticheat System
-- Exterior & Interior Cool Mapping
-- Speedcam & Speedtrap
-- Car Steling
-
-# Credits
-- Dandy (Base script)
-- Ades%burton (Updated)
+ini adalah gamemode yang di remake oleh capitaliz staff terutama developer BURZ10 
+dengan basic lrp
+semoga bermanfaat ya
